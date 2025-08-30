@@ -1,1 +1,12 @@
-<h1>This is for first website</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>This is for the website for ngnix</h1>
+</head>
+<body>
+    
+</body>
+</html>
